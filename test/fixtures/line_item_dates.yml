@@ -1,0 +1,7 @@
+today:
+  quote_id: 1
+  date: <%= Date.current %>
+
+next_week:
+  quote_id: 1
+  date: <%= Date.current + 1.week %>
